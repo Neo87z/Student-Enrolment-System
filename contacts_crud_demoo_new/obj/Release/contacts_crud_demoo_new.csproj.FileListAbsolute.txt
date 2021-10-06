@@ -1,0 +1,5 @@
+C:\Users\sheha\source\repos\contacts_crud_demoo_new\contacts_crud_demoo_new\obj\Release\contacts_crud_demoo_new.FormAddEditContact.resources
+C:\Users\sheha\source\repos\contacts_crud_demoo_new\contacts_crud_demoo_new\obj\Release\contacts_crud_demoo_new.FormContactList.resources
+C:\Users\sheha\source\repos\contacts_crud_demoo_new\contacts_crud_demoo_new\obj\Release\contacts_crud_demoo_new.Properties.Resources.resources
+C:\Users\sheha\source\repos\contacts_crud_demoo_new\contacts_crud_demoo_new\obj\Release\contacts_crud_demoo_new.csproj.GenerateResource.cache
+C:\Users\sheha\source\repos\contacts_crud_demoo_new\contacts_crud_demoo_new\obj\Release\contacts_crud_demoo_new.csproj.CoreCompileInputs.cache

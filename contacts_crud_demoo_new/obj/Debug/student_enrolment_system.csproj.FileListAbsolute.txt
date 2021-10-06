@@ -1,0 +1,16 @@
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\bin\Debug\contacts_crud_demoo_new.exe.config
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\bin\Debug\contacts_crud_demoo_new.exe
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\bin\Debug\contacts_crud_demoo_new.pdb
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\bin\Debug\MySql.Data.dll
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\bin\Debug\Humanizer.dll
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\bin\Debug\TooSharp.Core.xml
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\obj\Debug\student_enrolment_system.csproj.AssemblyReference.cache
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\obj\Debug\contacts_crud_demoo_new.CalculateDiscount.resources
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\obj\Debug\contacts_crud_demoo_new.FormAddEditContact.resources
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\obj\Debug\contacts_crud_demoo_new.FormContactList.resources
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\obj\Debug\contacts_crud_demoo_new.Properties.Resources.resources
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\obj\Debug\student_enrolment_system.csproj.GenerateResource.cache
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\obj\Debug\student_enrolment_system.csproj.CoreCompileInputs.cache
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\obj\Debug\student_enrolment_system.csproj.CopyComplete
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\obj\Debug\contacts_crud_demoo_new.exe
+E:\GUI2\Student Entrolment System\contacts_crud_demoo_new\obj\Debug\contacts_crud_demoo_new.pdb
